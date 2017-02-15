@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="KEY_ACCOUNT_AID">key_account_id</string>
+    <string name="KEY_ACCOUNT_GUIDE">key_account_guide</string>
+    <string name="KEY_SETTING_DIALCONFIRM">key_setting_dialconfirm</string>
+</resources>

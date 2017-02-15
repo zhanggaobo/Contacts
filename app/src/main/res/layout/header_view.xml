@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:background="@color/theme">
+
+    <TextView
+            android:id="@+id/header_middle_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:maxWidth="200dp"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:singleLine="true"
+            />
+    <ImageView
+            android:id="@+id/header_left_image"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:padding="10dp"
+            android:layout_alignParentLeft="true"
+            android:src="@mipmap/icon_header_back_white"
+            android:layout_centerVertical="true"
+            />
+    <ImageView
+            android:id="@+id/header_right_image"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="5dp"
+            android:padding="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone"
+            />
+
+    <TextView
+            android:id="@+id/header_right_view"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:text="确定"
+            android:gravity="center_vertical"
+            android:layout_marginRight="20dp"
+            android:layout_alignParentRight="true"
+            android:visibility="gone"
+            />
+</RelativeLayout>

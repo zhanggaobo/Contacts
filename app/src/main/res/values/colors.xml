@@ -1,0 +1,83 @@
+<resources>
+    <color name="dark_gray">#6E6E6E</color>
+    <color name="pim_bg">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="dark_black">#ff666666</color>
+    <color name="dark_black2">#DD000000</color>
+    <color name="middle_gray">#ff737370</color>
+    <color name="light_gray">#9D9D9D</color>
+    <color name="shark_gray">#ffcccccc</color>
+    <color name="smart_gray">#fff6f4f4</color>
+    <color name="favorite_gray">#E5E3DF</color>
+    <color name="message_gray">#ced3d6</color>
+    <color name="column_gray">#ffe9e7e3</color>
+    <color name="sync_gray">#ffF3F3F3</color>
+    <color name="dark_medium_gray">#ffDFDFDF</color>
+    <color name="dark_medium_gray2">#44DFDFDF</color>
+    <color name="dark_medium_gray3">#88DDDDFF</color>
+    <!--<color name="dark_medium_gray3">#FFDFDFDF</color>-->
+
+    <color name="list_primary_color">#1D1D1D</color>
+    <color name="list_secondary_color">#9C9C9C</color>
+    <color name="list_total_num_color">#ff3366ff</color>
+    <color name="list_time_view_color">#ff3366ff</color>
+    <color name="round_corner_border">#CFCFCF</color>
+    <color name="dropdown_color">#5B5B5B</color>
+    <color name="message_dropdown_color">#333333</color>
+    <color name="special_blue">#0f87ff</color>
+
+    <color name="yellow">#ffd6ad14</color>
+    <color name="dark_yellow">#fffbe284</color>
+    <color name="red">#ffff3333</color>
+    <color name="blue">#ff005ABA</color>
+    <color name="light_blue">#ff3366ff</color>
+    <color name="dark_blue">#ff66ACD9</color>
+    <color name="dark_blue2">#ff66ACff</color>
+    <color name="green">#ff69A932</color>
+    <color name="contact_indexer_bg">#ffe6f7f7</color>
+    <color name="window_bg_color">#50000000</color>
+    <color name="found_bg">#f3f3f3</color>
+    <color name="separator_bg">#ececec</color>
+    <color name="found_item_focus">#fbfbfb</color>
+    <color name="found_item_fonts">#757575</color>
+    <color name="found_instell_bg">#1db3fe</color>
+    <color name="found_instell_bg__focus">#65cbfe</color>
+    <color name="found_upgrade_bg__focus">#f00000</color>
+    <color name="life_columns_color">#929191</color>
+    <color name="life_name_color">#292929</color>
+
+    <drawable name="window_shadow">#e0737370</drawable>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparente">#a0000000</color>
+
+    <!--森林绿 -->
+    <color name="lightseagreen">#20B2AA</color>
+    <!--亮海蓝色 -->
+    <color name="dodgerblue">#1E90FF</color>
+
+    <color name="start_pager1">#28c692</color>
+    <color name="start_pager2">#ffa803</color>
+    <color name="start_pager3">#37add4</color>
+    <color name="start_pager4">#8bb814</color>
+
+
+    <color name="theme">#28c692</color>
+    <color name="line_bg">#d9e2e4</color>
+    <color name="home_btm_bg">#fff6f4f4</color>
+    <color name="text_bg">#606160</color>
+    <color name="gray">#808080</color>
+    <color name="divider_color">#d8d8d8</color>
+    <color name="white_ff">#FFFFFFFF</color>
+    <!--主要用于导航字体颜色或部分重点文字-->
+    <color name="text_focus">#333333</color>
+    <!--页面内容常规颜色-->
+    <color name="text_content">#666666</color>
+    <!--铺助性或介绍性内容-->
+    <color name="text_des">#999999</color>
+
+    <color name="lightgray">#D3D3D3</color>
+
+    <color name="red_prompt_bg">#ff3b2f</color>
+</resources>
